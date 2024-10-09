@@ -1,0 +1,7 @@
+{
+  "needleGroups": {
+    "redColors": ["red", "pink", "maroon"],
+    "blueColors": ["blue", "navy", "cyan"],
+    "qa": ["was"]
+  }
+}

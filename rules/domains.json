@@ -1,0 +1,12 @@
+{
+  "domains": {
+    "example.com": {
+      "elements": ["p", "div"],
+      "filter_type": "replace"
+    },
+    "localhost": {
+      "elements": ["span", "h2"],
+      "filter_type": "remove"
+    }
+  }
+}
